@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/FragA"
+        android:title="monthly"/>
+    <item
+        android:id="@+id/FragB"
+        android:title="weekly"/>
+    <item
+        android:id="@+id/FragC"
+        android:title="daily"/>
+    <item
+        android:id="@+id/FragD"
+        android:title="add"/>
+</menu>
